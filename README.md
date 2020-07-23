@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hello world, I'm [Brian](https://brianruizy.com)! 👋
+I enjoy taking an abstract idea, and turning it into something that brings value and impact to others! That may be developing a web-app, or working with big-data.
+
+[![Brian's github stats](https://github-readme-stats.vercel.app/api?username=brianruizy&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brianruizy&theme=dracula&hide=java,r)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **BrianRuizy/brianruizy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
