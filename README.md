@@ -1,5 +1,7 @@
 ![banner](https://github.com/BrianRuizy/brianruizy/blob/master/gh%20banner.png?raw=true)
 
+[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/BrianRuizy) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/brianruizy/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/brianruizy/) [<img src ="https://img.shields.io/badge/Portfolio-up-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://brianruizy.com/) ![Visits Badge](https://badges.pufler.dev/visits/brianruizy/brianruizy?style=for-the-badge ) 
+
 ### Hello world, I'm [Brian](https://brianruizy.com)! 👋
 I enjoy taking an abstract idea, and turning it into something that brings value and impact to others! That may be developing a web-app, or working with big-data.
 
