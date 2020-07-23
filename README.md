@@ -12,7 +12,7 @@
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **python**, **design**, **cloud computing**, **big data**
 - 📫 Reach me: **brianruiz@protonmail.com**
-- 🏖 In my spare time: I play soccer, take pics, and travel (when not in a pandemic ☹)
+- 🏖 In spare time: I attend Hackathons, play soccer, take pics, and travel (when not in a pandemic ☹)
 
 
 [![Brian's github stats](https://github-readme-stats.vercel.app/api?username=brianruizy&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
