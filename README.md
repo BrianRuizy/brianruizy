@@ -15,7 +15,7 @@
 
 
 [![Brian's github stats](https://github-readme-stats.vercel.app/api?username=brianruizy&theme=light&show_icons=true&line_height=27)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brianruizy&theme=light&hide=java,r)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brianruizy&theme=light&hide=java,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **BrianRuizy/brianruizy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
