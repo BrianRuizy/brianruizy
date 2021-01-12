@@ -5,7 +5,7 @@
 
 - 💼 Here, have my [**resume**](https://brianruizy.com/assets/BrianRuiz-Resume.pdf)! Or, check my [**portfolio**](https://brianruizy.com/)
 - 👨🏽‍💻 Currently developing... [Favours](https://github.com/favours-io), [COVID Dashboard](https://github.com/BrianRuizy/covid19-dashboard), & [BookOMate](https://github.com/Bookomate/bookomate)
-- 🏢 I work as a Jr. Software Engineer at [PeriShip, llc](https://www.linkedin.com/company/periship/)
+- 🏢 Software Engineer at [PeriShip, llc](https://www.linkedin.com/company/periship/)
 - ⚙️ I use daily: `.py`, `.js`, `.dart`, `.html`, `.css`, `.csv`, `.svg`, `.psd`
 - 🧰 Build with: `VSCode`, `Django`, `flask`, `Linux`, `Flutter`, `AWS`, `Docker`, `git`...
 - 🌱 Learning all about **Open Source**
