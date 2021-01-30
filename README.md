@@ -7,8 +7,8 @@
 - 🏢 Software Engineer at [PeriShip, llc](https://www.linkedin.com/company/periship/)
 - ⚙️ I use daily: `.py`, `.js`, `.dart`, `.html`, `.css`, `.csv`, `.svg`, `.psd`
 - 🧰 Build with: `VSCode`, `Django`, `flask`, `Linux`, `Flutter`, `AWS`, `Docker`, `git`...
-- 🌱 Learning all about **Open Source**
-- 📫 Reach me: **brianruiz@protonmail.com**
+- ✏ Currently learning Jekyll, Django REST, Flutter
+- 📫 Email: **brianruiz@protonmail.com**
 - ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
 
 
