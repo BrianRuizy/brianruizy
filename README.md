@@ -5,9 +5,8 @@
 
 - 💼 Here, have my [**resume**](https://brianruizy.com/assets/BrianRuiz-Resume.pdf)! Or, check my [**portfolio**](https://brianruizy.com/)
 - 🏢 Software Engineer at [PeriShip, llc](https://www.linkedin.com/company/periship/)
-- ⚙️ I use daily: `.py`, `.js`, `.dart`, `.html`, `.css`, `.csv`, `.svg`, `.psd`
-- 🧰 Build with: `VSCode`, `Django`, `flask`, `Linux`, `Flutter`, `AWS`, `Docker`, `git`...
-- ✏ Currently learning Jekyll, Django REST, Flutter
+- 🧰 Build with: `Python`, `Django`, `JavaScript`, `VSCode`, `AWS`, `Docker`, `Linux`,...
+- ✏ Currently learning Gatsby.JS, GraphQL
 - 📫 Email: **brianruiz@protonmail.com**
 - ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
 
