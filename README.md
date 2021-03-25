@@ -5,9 +5,10 @@
 
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/BrianRuizy) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/brianruizy/) [<img src ="https://img.shields.io/badge/Portfolio-up-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://brianruizy.com/) ![Visits Badge](https://badges.pufler.dev/visits/brianruizy/brianruizy?style=for-the-badge ) 
 
-- 💼 Here, have my [**resume**](https://brianruizy.com/assets/BrianRuiz-Resume.pdf)! Or, check my [**portfolio**](https://brianruizy.com/)
-- 🏢 Software Engineer at [PeriShip, llc](https://www.linkedin.com/company/periship/), Houston TX
+- 🏢 Software Engineer at [PeriShip](https://www.linkedin.com/company/periship/), in Houston TX
 - 🧰 I build with: `Python`, `JavaScript`, `Django`, `VSCode`, `Linux` ...
 - ✏ Currently learning all things Gatsby.JS, GraphQL and AI
 - ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
-- 📫 Reach out: **brianruiz@protonmail.com**
+- 📫 Reach out to me: brianruiz@protonmail.com
+- 💼 Here's a copy of my [resume](https://brianruizy.com/Brian-Ruiz-Resume.pdf
+- 👔 Or explore my [portfolio](https://brianruizy.com/)
