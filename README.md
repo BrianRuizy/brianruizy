@@ -10,5 +10,5 @@
 - ✏ Currently learning all things Gatsby.JS, GraphQL and AI
 - ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
 - 📫 Reach out to me: brianruiz@protonmail.com
-- 💼 Here's a copy of my [resume](https://brianruizy.com/Brian-Ruiz-Resume.pdf
+- 💼 Here's a copy of my [resume](https://brianruizy.com/Brian-Ruiz-Resume.pdf)
 - 👔 Or explore my [portfolio](https://brianruizy.com/)
