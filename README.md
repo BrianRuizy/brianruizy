@@ -10,7 +10,6 @@
 
 - 🏢 Software Engineer [@Hines](https://www.hines.com/), in Houston TX
 - 🧰 I build with: `Python`, `JavaScript`, `Django`, `VSCode`, `Linux` ...
-- ✏ Currently learning all things Gatsby.JS, GraphQL and AI
 - ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
 - 📫 Reach out to me: brianruiz@protonmail.com
 - 💼 Here's a copy of my [resume](https://brianruizy.com/Brian-Ruiz-Resume.pdf), or explore my [portfolio](https://brianruizy.com/)
