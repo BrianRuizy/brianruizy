@@ -5,7 +5,7 @@
 ![Visits Badge](https://badges.pufler.dev/visits/brianruizy/brianruizy?style=for-the-badge ) 
 
 - [![BR](https://brianruizy.com/favicons/favicon-16x16.png)](https://brianruizy.com/) 
-Read [blog](https://brianruizy.com/) posts on my porftolio website
+Read [blog](https://brianruizy.com/) posts on my portfolio website
 - 🏢 Software Engineer [@Hines](https://www.hines.com/), in Houston TX
 - 🧰 I build with: `Python`, `JavaScript`, `Django`, `VSCode`, `Linux` ...
 - ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
