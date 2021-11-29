@@ -10,4 +10,3 @@ Read [blog](https://brianruizy.com/) posts on my portfolio website
 - 🧰 I build with: `Python`, `JavaScript`, `Django`, `VSCode`, `Linux` ...
 - ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
 - 📫 Reach out to me: brianruiz@protonmail.com
-- 💼 Here's a copy of my [resume](https://brianruizy.com/Brian-Ruiz-Resume.pdf)
