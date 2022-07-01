@@ -9,4 +9,4 @@ Read [blog](https://brianruizy.com/) posts on my portfolio website
 - 🏢 Software Engineer [@Hines](https://www.hines.com/), in Houston TX
 - 🧰 I build with: `Python`, `JavaScript`, `Django`, `VSCode`, `Linux` ...
 - ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
-- 📫 Reach out to me: brianruiz@protonmail.com
+- 📫 Reach out to me: brianruiz0123@gmail.com
