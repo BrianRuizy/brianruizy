@@ -6,8 +6,8 @@
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCCIFp-Se_xjfYc94H04oK7Q)
 
 - [![BR](https://b-r.io/favicons/favicon-16x16.png)](https://brianruizy.com/) 
-Read [blog](https://brianruizy.com/) posts on my portfolio website
-- 🏢 Software Engineer [@Hines](https://www.hines.com/), in Houston TX
-- 🧰 I build with: `Python`, `JavaScript`, `Django`, `VSCode`, `Linux` ...
+Feel free to checkout my [portfolio](https://brianruizy.com/) website!
+- 🏢 Software Engineer (Full Stack) [@Hines](https://www.hines.com/), in Houston TX
+- 🧰 I build with: `Python` `Django`, `JavaScript`, `Next.js`, `Gatsby.js`,  `MUI`, `Tailwind` ...
 - ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
 - 📫 Reach out to me: brianruiz0123@gmail.com
